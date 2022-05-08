@@ -5,4 +5,5 @@
  hc.init
  hc.(Command URL)←'get'url
  h←hc.Run
+ h.Data
 ```
